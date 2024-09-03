@@ -1,0 +1,68 @@
+body{
+    border: 1px solid black;
+    width: 1000px;
+    height: 500px;
+}
+
+#top{
+    background-color: red;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#right{
+    background-color: rgb(242, 137, 154);
+}
+#left{
+    background-color: rgb(242, 137, 154);
+}
+#center{
+    background-color: rgb(242, 137, 154);
+}
+
+
+#middle{
+    background-color: lightblue;
+    height: 400px;
+    display: flex;
+    flex-direction:row  
+}
+
+#main{
+    text-align: center;
+    align-content: center;
+    flex-grow: 1;
+}
+
+#left-menu{
+    background-color: rgb(235, 214, 175);
+    display: flex;
+    flex-direction: column;
+    width: 17%;
+}
+
+.item-menu{
+    background-color: rgb(196, 145, 50);
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+
+#menu-item{
+    background:rgb(245, 112, 79);
+    margin: auto;
+    padding-bottom: 7px;
+    align-self: center;
+}
+
+
+#buttom{
+    background-color: pink;
+    height: 80px;
+    text-align: center;
+    align-content: center;
+}
+
+
+
