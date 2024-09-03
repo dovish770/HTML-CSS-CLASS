@@ -1,0 +1,51 @@
+#top-page{
+    background-color: rgb(76, 72, 72);
+    padding-top: 0px;
+    width:100%;
+    margin: 0px;    
+}
+
+#title{
+    color: rgba(178, 76, 25, 0.937);
+    font-family: "Nerko One", cursive;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: x-large;
+    text-align: center;
+    padding-top: 0.5px;
+}
+
+#image_bunner{
+    width: 100%;
+}
+
+.links{
+    color: aliceblue;    
+    font-size: x-large;
+    padding: 0.5rem;
+}
+
+#link1{
+    color: rgb(213, 105, 43);
+}
+
+#link2{
+    color: rgb(213, 105, 43);
+}
+
+#inner-content{
+    background-color: rgb(22, 15, 15);
+    color: beige;
+    padding-top: 15px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    width: 100%;
+}
+
+#text2{    
+    text-align:unset;
+    margin-bottom: 45px;
+    padding-right: 470px;
+    padding-left: 470px;
+}
